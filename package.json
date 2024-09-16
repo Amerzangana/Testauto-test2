@@ -1,0 +1,21 @@
+{
+  "name": "playwright-demo-vrt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tests": "npx playwright test",
+    "tests-ui": "npx playwright test --ui",
+    "update-screenshots": "npx playwright test --update-snapshots"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
