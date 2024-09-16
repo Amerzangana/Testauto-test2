@@ -4,4 +4,4 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 .env
-/vrtSuite01.spec.ts-snapshots
+/tests/vrtSuite01.spec.ts-snapshotsw
